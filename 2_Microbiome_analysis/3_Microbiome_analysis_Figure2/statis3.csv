@@ -1,0 +1,17 @@
+,Feature,Kruskal_p,Posthoc_test,Group_Comparison,P_value
+0,Actinobacteriota,0.009762417,Dunn,Group Control vs Group Millet,0.085367389
+1,Actinobacteriota,0.009762417,Dunn,Group Control vs Group Quinoa,0.008098808
+2,Actinobacteriota,0.009762417,Dunn,Group Millet vs Group Quinoa,0.251458163
+3,Bacteroidota,0.363591557,N/A,N/A,N/A
+4,Cyanobacteria,0.100099829,N/A,N/A,N/A
+5,Desulfobacterota,0.04933651,Dunn,Group Control vs Group Millet,0.691614945
+6,Desulfobacterota,0.04933651,Dunn,Group Control vs Group Quinoa,0.063009245
+7,Desulfobacterota,0.04933651,Dunn,Group Millet vs Group Quinoa,0.081938031
+8,Firmicutes,0.222447283,N/A,N/A,N/A
+9,Fusobacteriota,0.139756013,N/A,N/A,N/A
+10,Proteobacteria,0.020458658,Dunn,Group Control vs Group Millet,0.154968757
+11,Proteobacteria,0.020458658,Dunn,Group Control vs Group Quinoa,0.016793246
+12,Proteobacteria,0.020458658,Dunn,Group Millet vs Group Quinoa,0.236055541
+13,Synergistota,0.373924849,N/A,N/A,N/A
+14,Verrucomicrobiota,0.386741023,N/A,N/A,N/A
+15,F/B,0.246257065,N/A,N/A,N/A
