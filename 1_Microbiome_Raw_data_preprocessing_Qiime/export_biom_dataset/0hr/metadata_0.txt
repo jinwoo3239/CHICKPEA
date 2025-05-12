@@ -1,0 +1,11 @@
+#SampleID	BarcodeSequence	Barcode_location	Chikpea_24	Chikpea_0	Group	Manager	Treatment	Incubation	Gender	Subject	DNA_Plate	SampleType	Platform	TargetGene	TargetSubfragment	Run
+Sub002.0h	CTTACACTGCTT	5_B09	X	O	0h_control	Control_0h	Control_0h	0h	M	2	4	Stool	Illumina	16S_rRNA	V4	22
+Sub003.0h	ACTCACAGGAAT	5_C09	X	O	0h_control	Control_0h	Control_0h	0h	F	3	4	Stool	Illumina	16S_rRNA	V4	22
+Sub004.0h	GTTGAAGCACCT	5_D09	X	O	0h_control	Control_0h	Control_0h	0h	M	4	4	Stool	Illumina	16S_rRNA	V4	22
+Sub005.0h	GTAAACGACTTG	5_E09	X	O	0h_control	Control_0h	Control_0h	0h	M	5	4	Stool	Illumina	16S_rRNA	V4	22
+Sub007.0h	TTGGACGTCCAC	5_F09	X	O	0h_control	Control_0h	Control_0h	0h	M	7	4	Stool	Illumina	16S_rRNA	V4	22
+Sub008.0h	GCACGCGAGCAC	5_G09	X	O	0h_control	Control_0h	Control_0h	0h	M	8	4	Stool	Illumina	16S_rRNA	V4	22
+Sub001.0h	CCACTGCCCACC	4_B04	X	O	0h_control	Control_0h	Control_0h	0h	F	1	3	Stool	Illumina	16S_rRNA	V4	24
+Sub006.0h	AACACCATCGAC	4_E04	X	O	0h_control	Control_0h	Control_0h	0h	F	6	3	Stool	Illumina	16S_rRNA	V4	24
+Sub0010.0h	TCTACATACATA	4_F04	X	O	0h_control	Control_0h	Control_0h	0h	F	10	3	Stool	Illumina	16S_rRNA	V4	24
+Sub011.0h	TGGCGCACGGAC	4_G04	X	O	0h_control	Control_0h	Control_0h	0h	F	11	3	Stool	Illumina	16S_rRNA	V4	24
